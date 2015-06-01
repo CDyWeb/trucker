@@ -1,5 +1,5 @@
 {
-    "name": "indatus/trucker",
+    "name": "cdyweb/trucker",
     "description": "A simple active resource implementation written in PHP to consume any REST API",
     "keywords":["trucker", "activeresource", "active resource"],
     "type": "library",
@@ -10,6 +10,12 @@
             "name": "Brian Webb",
             "homepage": "http://indatus.com/",
             "email": "bwebb@indatus.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Erwin Kooi",
+            "homepage": "http://cdyweb.com/",
+            "email": "composer@cdyweb.com",
             "role": "Developer"
         }
     ],
